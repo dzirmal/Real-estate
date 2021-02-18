@@ -1,0 +1,5 @@
+export { default as NavBar } from './NavBar/NavBar'
+export { default as Footer } from './Footer/Footer'
+export { default as Hero } from './Hero/Hero'
+export { default as Dropdown } from './Dropdown/Dropdown'
+export { default as InfoSection } from './InfoSection/InfoSection'
